@@ -1,2 +1,7 @@
-# demo-odebrecht-argentina
-Demo web para Odebrecht Argentina — diseñada por eterlab.
+# Odebrecht Argentina
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
